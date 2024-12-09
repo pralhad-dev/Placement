@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysPackage;
 
 public class OddList {
     public static void main(String[] args) {
